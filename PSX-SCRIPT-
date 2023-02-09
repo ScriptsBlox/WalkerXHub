@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Project-WD/PSX-Main-Lua/main/PSX-SCRIPT"))()
